@@ -1,6 +1,7 @@
 body {
     background-image: url(mockingbird_cut.jpg);
     background-size: 200px;
+    text-shadow: 0 8px 16px 0 Yellow;
 }
 #employeeOutput {
     list-style: none;
@@ -10,11 +11,15 @@ body {
 h1 {
     padding: 20px;
     background: linear-gradient(290deg, DeepPink, LawnGreen, DarkSalmon, Cyan, SaddleBrown);
+    text-shadow: 8px 16px  Yellow;
 }
 
 button {
     font-size: 60px;
     background-color: DarkSalmon;
+    border-radius: 30px;
+    text-shadow: 8px 16px  Yellow;
+    box-shadow: 20px 8px 16px 7px Yellow;
 }
 #content {
     padding: 20px;
@@ -24,4 +29,5 @@ button {
 }
 #face {
     font-size: 30px;
+    text-shadow: 80px 16px  Yellow;
 }
