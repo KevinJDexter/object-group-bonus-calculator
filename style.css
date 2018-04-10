@@ -1,0 +1,27 @@
+body {
+    background-image: url(mockingbird_cut.jpg);
+    background-size: 200px;
+}
+#employeeOutput {
+    list-style: none;
+}
+
+
+h1 {
+    padding: 20px;
+    background: linear-gradient(290deg, DeepPink, LawnGreen, DarkSalmon, Cyan, SaddleBrown);
+}
+
+button {
+    font-size: 60px;
+    background-color: DarkSalmon;
+}
+#content {
+    padding: 20px;
+    padding-bottom:39px;
+    text-align: center;
+    background: linear-gradient(70deg, DeepPink, LawnGreen, DarkSalmon, Cyan, SaddleBrown);
+}
+#face {
+    font-size: 30px;
+}
